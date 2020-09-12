@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Linear Relative Part2</string>
+    <string name="lbl_nama">Algo Aguscik</string>
+    <string name="inp_nama">Nama</string>
+    <string name="inp_password">Password</string>
+    <string name="inp_rePassword">Ulang Password</string>
+    <string name="daftar">Daftar</string>
+</resources>

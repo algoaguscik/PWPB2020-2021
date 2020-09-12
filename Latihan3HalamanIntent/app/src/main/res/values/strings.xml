@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Latihan 3 Halaman Intent</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+</resources>
